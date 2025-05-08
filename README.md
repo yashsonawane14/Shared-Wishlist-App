@@ -1,7 +1,5 @@
 # Shared-Wishlist-App
-Here’s your full `README.md` file content (excluding screenshots and license), ready to copy and place into your project root:
 
----
 
 ### ✅ `README.md`
 
